@@ -25,3 +25,24 @@
     color: black;
     font-style: normal;
 }
+
+.idworkwrap {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 30px 150px;
+}
+
+.titlewraper h2 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.gsc_container {
+    padding: 20px;
+}
+
+.title p {
+    padding: 10px;
+}
