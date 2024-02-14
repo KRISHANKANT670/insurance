@@ -958,10 +958,11 @@ section {
 
 .features .archi button {
     background-color: #18d26e;
-    padding: 20px;
-    border-radius: 15px;
+    padding: 5px 10px;
+    border-radius: 10px;
     color: white;
-    font-size: 20px;
+    font-size: 22px;
+    font-weight: bold;
 }
 
 .features h3 {
