@@ -20,3 +20,5 @@ window.onclick = function(event) {
         }
     }
 }
+
+// ************************** ai chat boot *****************
