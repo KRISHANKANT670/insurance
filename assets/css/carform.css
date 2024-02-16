@@ -48,8 +48,12 @@
 }
 
 
-/* ******************************** ai ***************************** */
+/* ******************************** ai chat boat ***************************** */
 
 .ai {
-    position: sticky;
+    display: flex;
+    font-size: 49px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 117px;
 }
