@@ -1,59 +1,57 @@
-.gender-dropdown {
-    width: 200px;
-    padding: 8px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    outline: none;
-    cursor: pointer;
-}
-
-.gender-dropdown:focus {
-    border-color: #007bff;
-}
-
-.form-area {
-    margin-top: 20px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-.read-more {
-    display: flex;
-    justify-content: space-between;
-    font-weight: bold;
-    color: black;
-    font-style: normal;
-}
-
-.idworkwrap {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    padding: 30px 150px;
-}
-
-.titlewraper h2 {
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
-
-.gsc_container {
-    padding: 20px;
-}
-
-.title p {
-    padding: 10px;
-}
-
-
-/* ******************************** ai chat boat ***************************** */
-
-.ai {
-    display: flex;
-    font-size: 49px;
-    display: flex;
-    justify-content: flex-end;
-    padding-right: 117px;
-}
+    .gender-dropdown {
+        width: 200px;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        outline: none;
+        cursor: pointer;
+    }
+    
+    .gender-dropdown:focus {
+        border-color: #007bff;
+    }
+    
+    .form-area {
+        margin-top: 20px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    
+    .read-more {
+        display: flex;
+        justify-content: space-between;
+        font-weight: bold;
+        color: black;
+        font-style: normal;
+    }
+    
+    .idworkwrap {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        padding: 30px 150px;
+    }
+    
+    .titlewraper h2 {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .gsc_container {
+        padding: 20px;
+    }
+    
+    .title p {
+        padding: 10px;
+    }
+    /* ******************************** ai chat boat ***************************** */
+    
+    .ai {
+        display: flex;
+        font-size: 49px;
+        display: flex;
+        justify-content: flex-end;
+        padding-right: 117px;
+    }
