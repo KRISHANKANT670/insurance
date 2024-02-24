@@ -55,3 +55,50 @@
         justify-content: flex-end;
         padding-right: 117px;
     }
+    /* Media Query for Mobile */
+    
+    @media (max-width: 576px) {
+        /* CSS rules specific to mobile screens */
+        .col-lg-10 {
+            padding-left: 0 !important;
+            padding: 0;
+            margin: 0;
+            /* Reset padding for smaller screens */
+        }
+        .krish,
+        .bet {
+            justify-content: center !important;
+            /* Center content */
+            text-align: center !important;
+            /* Center text */
+        }
+        .btn {
+            margin-top: 15px !important;
+            /* Adjust margin */
+            width: 100% !important;
+            /* Make button full width */
+        }
+    }
+    /* Media Query for Tablet */
+    
+    @media (min-width: 577px) and (max-width: 992px) {
+        /* CSS rules specific to tablet screens */
+        .col-lg-10 {
+            padding-left: 0 !important;
+            padding: 0;
+            margin: 0;
+            /* Reset padding for smaller screens */
+        }
+    }
+    /* Media Query for Laptop */
+    
+    @media (min-width: 993px) {
+        /* CSS rules specific to laptop screens and larger */
+    }
+    /* krishankant */
+    /* ****************************************************************************** */
+    
+    .krish {
+        display: flex;
+        justify-content: flex-end;
+    }
